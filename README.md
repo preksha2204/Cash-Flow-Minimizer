@@ -34,7 +34,7 @@ The Cash Flow Minimizer is a C-based application designed to efficiently settle 
 Code Blocks
 
 ### Installation Steps
-* Clone the repository:
+* Clone the repository: 
 ```s
  git clone https://github.com/preksha2204/Cash-Flow-Minimizer.git
 ```
