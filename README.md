@@ -38,11 +38,11 @@ Code Blocks
 ```s
  git clone https://github.com/preksha2204/Cash-Flow-Minimizer.git
 ```
-* Compile the program:
+* Compile the program
 
-* Run the executable:
+* Run the executable
 
-* Undoing a Transaction
+* Undoing a Transaction: 
   After running the program, you will have an option to undo the last transaction by entering y or Y when prompted.
 
 
