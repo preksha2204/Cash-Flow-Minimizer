@@ -37,7 +37,7 @@ Code Blocks
 * Clone the repository:
 ```s
  git clone https://github.com/preksha2204/Cash-Flow-Minimizer.git
-
+```
 * Compile the program:
 
 * Run the executable:
